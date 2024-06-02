@@ -2,6 +2,31 @@
 
 <!-- do not remove -->
 
+## 2.3.25
+
+### New Features
+
+- add `nbdev_requirements` ([#1415](https://github.com/fastai/nbdev/issues/1415))
+- Auto-trust notebooks after `nbdev_clean` ([#1414](https://github.com/fastai/nbdev/issues/1414))
+
+
+## 2.3.23
+
+- Change `jupyter_hooks` default to `False`
+
+
+## 2.3.22
+
+- Remove max version constraint on ipywidgets dev dependency
+
+
+## 2.3.21
+
+### Bugs Squashed
+
+- Remove unneeded ipywidgets requirement
+
+
 ## 2.3.20
 
 ### Bugs Squashed
